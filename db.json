@@ -21,6 +21,17 @@
       "created_at": "2018-07-20T15:34:54.136+02:00",
       "updated_at": "2018-07-20T15:34:54.136+02:00",
       "deleted_at": null
+    },
+    {
+      "id": 3,
+      "name": "Text",
+      "priority": 2,
+      "description": "Test category",
+      "tag": "test",
+      "deleted": true,
+      "created_at": "2018-07-20T15:34:54.136+02:00",
+      "updated_at": "2018-07-20T15:34:54.136+02:00",
+      "deleted_at": "2018-07-20T15:34:54.136+02:00"
     }
   ]
 }

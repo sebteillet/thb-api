@@ -47,7 +47,7 @@
       "description": "This is a description",
       "short_description": "short desc",
       "price": 2.99,
-      "status": "publish",
+      "status": "published",
       "rendering_errors": []
     },
     {
@@ -62,7 +62,37 @@
       "description": "This is a description",
       "short_description": "short desc",
       "price": 2.99,
-      "status": "publish",
+      "status": "published",
+      "rendering_errors": []
+    },
+    {
+      "id": 3,
+      "public": "test-scroll-saw-pattern",
+      "name": "Test",
+      "designer": "Adrien",
+      "width": 7.00,
+      "height": 10.00,
+      "index": 5,
+      "category_id": 3,
+      "description": "This is a description",
+      "short_description": "short desc",
+      "price": 2.99,
+      "status": "unpublished",
+      "rendering_errors": []
+    },
+    {
+      "id": 4,
+      "public": "test2-scroll-saw-pattern",
+      "name": "Test 2",
+      "designer": "Adrien",
+      "width": 7.00,
+      "height": 10.00,
+      "index": 6,
+      "category_id": 3,
+      "description": "This is a description",
+      "short_description": "short desc",
+      "price": 2.99,
+      "status": "rendering",
       "rendering_errors": []
     }
   ]

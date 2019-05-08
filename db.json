@@ -33,5 +33,37 @@
       "updated_at": "2018-07-20T15:34:54.136+02:00",
       "deleted_at": "2018-07-20T15:34:54.136+02:00"
     }
+  ],
+  "patterns": [
+    {
+      "id": 1,
+      "public_id": "basketball-split-monogram-pattern",
+      "name": "Basketball Split Monogram",
+      "designer": "Adrien",
+      "width": 12.00,
+      "height": 12.00,
+      "index": 1,
+      "category": 1,
+      "description": "This is a description",
+      "short_description": "short desc",
+      "price": 2.99,
+      "status": "publish",
+      "rendering_errors": []
+    },
+    {
+      "id": 2,
+      "public_id": "horrendous-bat-scroll-saw-pattern",
+      "name": "Horrendous Bat",
+      "designer": "Adrien",
+      "width": 7.00,
+      "height": 10.00,
+      "index": 1,
+      "category": 1,
+      "description": "This is a description",
+      "short_description": "short desc",
+      "price": 2.99,
+      "status": "publish",
+      "rendering_errors": []
+    }
   ]
 }

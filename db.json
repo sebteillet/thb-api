@@ -1,0 +1,26 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sports",
+      "priority": 1,
+      "description": "All pattern about sports",
+      "tag": "sport",
+      "deleted": false,
+      "created_at": "2018-07-20T15:34:54.136+02:00",
+      "updated_at": "2018-07-20T15:34:54.136+02:00",
+      "deleted_at": null
+    },
+    {
+      "id": 2,
+      "name": "Holidays",
+      "priority": 50,
+      "description": "All pattern about American holidays",
+      "tag": "holidays",
+      "deleted": false,
+      "created_at": "2018-07-20T15:34:54.136+02:00",
+      "updated_at": "2018-07-20T15:34:54.136+02:00",
+      "deleted_at": null
+    }
+  ]
+}

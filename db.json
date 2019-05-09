@@ -135,7 +135,7 @@
       "short_description": "short desc",
       "price": 2.99,
       "status": "rendering",
-      "rendering_status": "waiting",
+      "rendering_status": "ready",
       "rendering_errors": [],
       "created_at": "2019-05-09T10:34:54.136",
       "updated_at": "2019-05-09T10:34:54.136",

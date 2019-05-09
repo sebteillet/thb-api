@@ -48,7 +48,10 @@
       "short_description": "short desc",
       "price": 2.99,
       "status": "published",
-      "rendering_errors": []
+      "rendering_errors": [],
+      "created_at": "2018-07-20T15:34:54.136+02:00",
+      "updated_at": "2018-07-20T15:34:54.136+02:00",
+      "deleted_at": null
     },
     {
       "id": 2,
@@ -63,7 +66,10 @@
       "short_description": "short desc",
       "price": 2.99,
       "status": "published",
-      "rendering_errors": []
+      "rendering_errors": [],
+      "created_at": "2018-07-21T15:34:54.136+02:00",
+      "updated_at": "2018-07-21T15:34:54.136+02:00",
+      "deleted_at": null
     },
     {
       "id": 3,
@@ -78,7 +84,10 @@
       "short_description": "short desc",
       "price": 2.99,
       "status": "unpublished",
-      "rendering_errors": []
+      "rendering_errors": [],
+      "created_at": "2018-07-22T15:34:54.136+02:00",
+      "updated_at": "2018-07-22T15:34:54.136+02:00",
+      "deleted_at": null
     },
     {
       "id": 4,
@@ -93,7 +102,10 @@
       "short_description": "short desc",
       "price": 2.99,
       "status": "rendering",
-      "rendering_errors": []
+      "rendering_errors": [],
+      "created_at": "2018-07-23T15:34:54.136+02:00",
+      "updated_at": "2018-07-23T15:34:54.136+02:00",
+      "deleted_at": null
     }
   ]
 }

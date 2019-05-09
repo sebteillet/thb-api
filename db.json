@@ -85,8 +85,8 @@
       "price": 2.99,
       "status": "unpublished",
       "rendering_errors": [],
-      "created_at": "2019-05-05T08:34:54.136",
-      "updated_at": "2019-05-05T08:34:54.136",
+      "created_at": "2019-05-09T08:34:54.136",
+      "updated_at": "2019-05-09T08:34:54.136",
       "deleted_at": null
     },
     {
@@ -103,8 +103,8 @@
       "price": 2.99,
       "status": "rendering",
       "rendering_errors": [],
-      "created_at": "2019-05-05T09:55:54.136",
-      "updated_at": "2019-05-05T09:55:54.136",
+      "created_at": "2019-05-09T09:55:54.136",
+      "updated_at": "2019-05-09T09:55:54.136",
       "deleted_at": null
     }
   ]

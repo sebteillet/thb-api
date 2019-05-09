@@ -48,6 +48,7 @@
       "short_description": "short desc",
       "price": 2.99,
       "status": "published",
+      "rendering_status": "done",
       "rendering_errors": [],
       "created_at": "2019-05-02T15:34:54.136",
       "updated_at": "2018-05-02T15:34:54.136",
@@ -66,6 +67,7 @@
       "short_description": "short desc",
       "price": 2.99,
       "status": "published",
+      "rendering_status": "done",
       "rendering_errors": [],
       "created_at": "2019-05-04T15:34:54.136",
       "updated_at": "2019-05-04T15:34:54.136",
@@ -84,6 +86,7 @@
       "short_description": "short desc",
       "price": 2.99,
       "status": "unpublished",
+      "rendering_status": "done",
       "rendering_errors": [],
       "created_at": "2019-05-09T08:34:54.136",
       "updated_at": "2019-05-09T08:34:54.136",
@@ -102,6 +105,7 @@
       "short_description": "short desc",
       "price": 2.99,
       "status": "rendering",
+      "rendering_status": "error",
       "rendering_errors": [
         {
           "type": "validation",
@@ -116,6 +120,25 @@
       ],
       "created_at": "2019-05-09T09:55:54.136",
       "updated_at": "2019-05-09T09:55:54.136",
+      "deleted_at": null
+    },
+    {
+      "id": 5,
+      "public": "test3-scroll-saw-pattern",
+      "name": "Test 3",
+      "designer": "Adrien",
+      "width": 7.00,
+      "height": 10.00,
+      "index": 12,
+      "category_id": 2,
+      "description": "This is a description",
+      "short_description": "short desc",
+      "price": 2.99,
+      "status": "rendering",
+      "rendering_status": "waiting",
+      "rendering_errors": [],
+      "created_at": "2019-05-09T10:34:54.136",
+      "updated_at": "2019-05-09T10:34:54.136",
       "deleted_at": null
     }
   ]

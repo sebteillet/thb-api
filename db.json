@@ -172,7 +172,7 @@
       "description": "This is a deleted pattern",
       "short_description": "short desc",
       "price": 2.99,
-      "status": "deleted",
+      "status": "unpublished",
       "deleted": true,
       "rendering_status": "ready",
       "rendering_errors": [],
